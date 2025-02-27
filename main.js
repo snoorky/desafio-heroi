@@ -6,7 +6,7 @@ if (experience > 1000 && experience <= 2000) {
     nivel = "Bronze"
 } else if (experience > 2000 && experience <= 5000) {
     nivel = "Prata"
-} else if (experience > 5000 && experience <= 7000) {
+} else if (experience >= 5000 && experience <= 7000) {
     nivel = "Ouro"
 } else if (experience > 7000 && experience <= 8000) {
     nivel = "Platina"
